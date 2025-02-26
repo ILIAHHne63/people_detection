@@ -10,6 +10,7 @@
 
 ```bash
 pip install ultralytics
+pip install argparse     
 ```
 Для macOS также можно установить зависимости из файла requirements.txt:
 
